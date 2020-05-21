@@ -12,6 +12,7 @@ AutoAP - A script to automatically configure and sync AP ports via API to mirror
 
 # Safety
    A switch port will only be configured if the following safety gates have been met
+   
       1. The network is tagged with "autoAP" (no tag means ALL hardware in that network is except regardless of tag)
       2. The switch needs to be tagged with "autoAP" (no tag means the switch is excuded from the scope)
       3. There has to be APs tagged with "autoAP" and a SINGLE master AP tagged with "AP:master"

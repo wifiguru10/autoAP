@@ -1,4 +1,5 @@
-AutoAP - A script to automatically configure and sync AP ports via API to mirror the functionality of the "Secure Connect" switch feature. The only "configuration" needed for the script is to insert your API key and tag the "inscope" devices on dashboard.
+# AutoAP 
+   A script to automatically configure and sync AP ports via API to mirror the functionality of the "Secure Connect" switch feature. The only "configuration" needed for the script is to insert your API key and tag the "inscope" devices on dashboard.
 
 # Description: 
 
